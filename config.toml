@@ -1,16 +1,6 @@
 baseURL = 'http://vysf.github.io/blog/'
 languageCode = 'en-us'
 title = 'Komputasi Geofisika'
-theme = 'hugo-PaperMod'
+theme = 'Lovelt'
 
-[params.homeInfoParams]
-Title = "Hi there👋"
-Content = "Can be Info, links, about..."
 
-[[params.socialIcons]]
-name = "Twitter"
-url = "https://twitter.com/vysf__"
-
-[[params.socialIcons]]
-name = "Github"
-url = "https://github.com/vysf"
