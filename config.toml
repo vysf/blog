@@ -1,6 +1,6 @@
 baseURL = 'http://vysf.github.io/blog/'
 languageCode = 'en-us'
 title = 'Komputasi Geofisika'
-theme = 'Lovelt'
+theme = 'LoveIt'
 
 
