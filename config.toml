@@ -3,4 +3,6 @@ languageCode = 'en-us'
 title = 'Komputasi Geofisika'
 theme = 'hugo-PaperMod'
 
-
+[params.homeInfoParams]
+Title = "Hi there wave"
+Content = "Can be Info, links, about..."
