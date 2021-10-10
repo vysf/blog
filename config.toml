@@ -1,4 +1,4 @@
-baseURL = 'http://vysf.github.io/blog/'
+baseURL = 'https://rumahkomputasi.com/'
 languageCode = 'en-us'
 title = 'Komputasi Geofisika'
 theme = 'hugo-PaperMod'
