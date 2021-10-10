@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://vysf.github.io/blog/'
 languageCode = 'en-us'
 title = 'Komputasi Geofisika'
 theme = 'hugo-PaperMod'
